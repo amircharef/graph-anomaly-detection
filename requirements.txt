@@ -1,1 +1,5 @@
-
+torch
+torch_geometric
+pygod
+scikit-learn
+numpy
